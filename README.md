@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: [cnsato@cnsato.cn](cnsato@cnsato.cn)
+- 📫 How to reach me: [cnsato@cnsato.cn](mailto:cnsato@cnsato.cn)
